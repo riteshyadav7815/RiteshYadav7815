@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Ritesh 👋
 
-<!--
-**riteshyadav7815/RiteshYadav7815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Full Stack Developer  
+🚀 Building real-world web applications using JavaScript & Node.js  
+🤖 Interested in AI-based solutions and problem solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- JavaScript  
+- Node.js  
+- Express  
+- Git & GitHub  
+
+---
+
+## 📌 Projects
+
+### 🏥 AI Hospital Recommendation System
+- Suggests doctors based on user symptoms  
+- Integrated chatbot for real-time interaction  
+- Built using Node.js and API-based architecture  
+- Focused on improving user experience in healthcare  
+
+---
+
+### 💰 Hisab – Expense Tracker
+- Tracks daily expenses and income  
+- Helps users manage and analyze spending  
+- Calculates total expenses automatically  
+- Simple and user-friendly interface  
+
+---
+
+## 📈 Goals
+- Improve full stack development skills  
+- Build scalable and real-world applications  
+- Learn advanced backend and AI integration  
+
+---
+
+## 📫 Connect with me
+- GitHub: https://github.com/riteshyadav7815  
+- LinkedIn: (add your LinkedIn link here)
